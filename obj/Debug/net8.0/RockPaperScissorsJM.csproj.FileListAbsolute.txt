@@ -1,0 +1,14 @@
+C:\Users\jmfbyau\OneDrive - JM Family Enterprises\ITS ACADEMY REPOS JM\RockPaperScissorsJM\bin\Debug\net8.0\RockPaperScissorsJM.exe
+C:\Users\jmfbyau\OneDrive - JM Family Enterprises\ITS ACADEMY REPOS JM\RockPaperScissorsJM\bin\Debug\net8.0\RockPaperScissorsJM.deps.json
+C:\Users\jmfbyau\OneDrive - JM Family Enterprises\ITS ACADEMY REPOS JM\RockPaperScissorsJM\bin\Debug\net8.0\RockPaperScissorsJM.runtimeconfig.json
+C:\Users\jmfbyau\OneDrive - JM Family Enterprises\ITS ACADEMY REPOS JM\RockPaperScissorsJM\bin\Debug\net8.0\RockPaperScissorsJM.dll
+C:\Users\jmfbyau\OneDrive - JM Family Enterprises\ITS ACADEMY REPOS JM\RockPaperScissorsJM\bin\Debug\net8.0\RockPaperScissorsJM.pdb
+C:\Users\jmfbyau\OneDrive - JM Family Enterprises\ITS ACADEMY REPOS JM\RockPaperScissorsJM\obj\Debug\net8.0\RockPaperScissorsJM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmfbyau\OneDrive - JM Family Enterprises\ITS ACADEMY REPOS JM\RockPaperScissorsJM\obj\Debug\net8.0\RockPaperScissorsJM.AssemblyInfoInputs.cache
+C:\Users\jmfbyau\OneDrive - JM Family Enterprises\ITS ACADEMY REPOS JM\RockPaperScissorsJM\obj\Debug\net8.0\RockPaperScissorsJM.AssemblyInfo.cs
+C:\Users\jmfbyau\OneDrive - JM Family Enterprises\ITS ACADEMY REPOS JM\RockPaperScissorsJM\obj\Debug\net8.0\RockPaperScissorsJM.csproj.CoreCompileInputs.cache
+C:\Users\jmfbyau\OneDrive - JM Family Enterprises\ITS ACADEMY REPOS JM\RockPaperScissorsJM\obj\Debug\net8.0\RockPaperScissorsJM.dll
+C:\Users\jmfbyau\OneDrive - JM Family Enterprises\ITS ACADEMY REPOS JM\RockPaperScissorsJM\obj\Debug\net8.0\refint\RockPaperScissorsJM.dll
+C:\Users\jmfbyau\OneDrive - JM Family Enterprises\ITS ACADEMY REPOS JM\RockPaperScissorsJM\obj\Debug\net8.0\RockPaperScissorsJM.pdb
+C:\Users\jmfbyau\OneDrive - JM Family Enterprises\ITS ACADEMY REPOS JM\RockPaperScissorsJM\obj\Debug\net8.0\RockPaperScissorsJM.genruntimeconfig.cache
+C:\Users\jmfbyau\OneDrive - JM Family Enterprises\ITS ACADEMY REPOS JM\RockPaperScissorsJM\obj\Debug\net8.0\ref\RockPaperScissorsJM.dll
