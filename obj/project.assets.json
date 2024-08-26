@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jmfbyau\\.nuget\\packages\\": {}
+    "C:\\Users\\jmfsmof\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jmfbyau\\OneDrive - JM Family Enterprises\\ITS ACADEMY REPOS JM\\RockPaperScissorsJM\\RockPaperScissorsJM.csproj",
+      "projectUniqueName": "C:\\Users\\jmfsmof\\OneDrive - JM Family Enterprises\\Documents\\academy\\Rock-Paper-Scissors-Code-Jam-2\\RockPaperScissorsJM.csproj",
       "projectName": "RockPaperScissorsJM",
-      "projectPath": "C:\\Users\\jmfbyau\\OneDrive - JM Family Enterprises\\ITS ACADEMY REPOS JM\\RockPaperScissorsJM\\RockPaperScissorsJM.csproj",
-      "packagesPath": "C:\\Users\\jmfbyau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jmfbyau\\OneDrive - JM Family Enterprises\\ITS ACADEMY REPOS JM\\RockPaperScissorsJM\\obj\\",
+      "projectPath": "C:\\Users\\jmfsmof\\OneDrive - JM Family Enterprises\\Documents\\academy\\Rock-Paper-Scissors-Code-Jam-2\\RockPaperScissorsJM.csproj",
+      "packagesPath": "C:\\Users\\jmfsmof\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jmfsmof\\OneDrive - JM Family Enterprises\\Documents\\academy\\Rock-Paper-Scissors-Code-Jam-2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jmfbyau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jmfsmof\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -40,6 +41,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
